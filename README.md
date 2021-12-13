@@ -1,4 +1,4 @@
-# Statistical-Inference
+# Satisfaction among the students on e-learning under the Pandemic situation | Statistical-Inference
 I am Chandima Nilakshi Madawala, a postgraduate student at University of Moratuwa, reading for MSC. in Computer Science. 
 This is a research project on the Satistical Inference Module.
 
